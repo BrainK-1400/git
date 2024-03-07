@@ -14,7 +14,10 @@
   "author": "braink-1400",
   "license": "ISC",
   "dependencies": {
-    "@babel/runtime": "^7.23.9",
-    "xyz-bk-uitl": "git+ssh://git@github.com/BrainK-1400/xyz-bk-uitl.git"
+    "@babel/runtime": "^7.23.9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrainK-1400/git.git"
   }
 }
